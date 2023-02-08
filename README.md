@@ -1,11 +1,14 @@
-# Synthetic images with Transformers
+# Synthetic images with Stable Diffusion Image Variations
+
+https://huggingface.co/lambdalabs/sd-image-variations-diffusers
 
 This is an example of an image to image process.
 This can be useful for images data augmentation when you do not have so much training images for your computer vision models.
 
-Python notebook:
+## Python notebook
 <a href="Generating synthetic image with Image Variation Transformers">Notebook</a>
 
+## Some image to images examples
 <img src="results (1).jpg">
 <img src="results (2).jpg">
 <img src="results (3).jpg">
